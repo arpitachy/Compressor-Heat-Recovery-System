@@ -1,2 +1,2 @@
-# Compressor-Heat-Recovery-System
+# Optimization of Compressor-Heat-Recovery-System
 Optimizaton of the extra energy consumption cost, the cost which are not directl assigned to HRS, fixed investment cost, marginal cost of additional compressor and savings. Several objective functions and constraints are implemented that minimizes energy consumption to make our project sustainable. Finally I analysed our result of cost and energy consumption by varying number of areas and compressor of our heat recovery system.
